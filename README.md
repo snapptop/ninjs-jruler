@@ -1,0 +1,2 @@
+# ninjs-jruler
+jruler cli
